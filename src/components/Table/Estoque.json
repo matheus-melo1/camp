@@ -1,0 +1,247 @@
+[
+  {
+    "Itens": "Computadores de mesa (desktops)",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$3.000"
+  },
+  {
+    "Itens": "Notebooks",
+    "Unidades": 30,
+    "Valor p/ unidade": "R$4.500"
+  },
+  {
+    "Itens": "Monitores",
+    "Unidades": 70,
+    "Valor p/ unidade": "R$800"
+  },
+  {
+    "Itens": "Teclados",
+    "Unidades": 80,
+    "Valor p/ unidade": "R$100"
+  },
+  {
+    "Itens": "Mouses",
+    "Unidades": 80,
+    "Valor p/ unidade": "R$50"
+  },
+  {
+    "Itens": "Impressoras",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$1.500"
+  },
+  {
+    "Itens": "Scanners",
+    "Unidades": 5,
+    "Valor p/ unidade": "R$1.200"
+  },
+  {
+    "Itens": "Servidores",
+    "Unidades": 5,
+    "Valor p/ unidade": "R$20.000"
+  },
+  {
+    "Itens": "Roteadores",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$500"
+  },
+  {
+    "Itens": "Switches de rede",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$1.000"
+  },
+  {
+    "Itens": "Cabos de rede (Ethernet)",
+    "Unidades": 100,
+    "Valor p/ unidade": "R$30"
+  },
+  {
+    "Itens": "Cabos USB",
+    "Unidades": 100,
+    "Valor p/ unidade": "R$20"
+  },
+  {
+    "Itens": "Fontes de Alimentação",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$300"
+  },
+  {
+    "Itens": "Estabilizadores de energia",
+    "Unidades": 15,
+    "Valor p/ unidade": "R$400"
+  },
+  {
+    "Itens": "Nobreaks (UPS)",
+    "Unidades": 15,
+    "Valor p/ unidade": "R$1.000"
+  },
+  {
+    "Itens": "Discos rígidos (HDD)",
+    "Unidades": 30,
+    "Valor p/ unidade": "R$400"
+  },
+  {
+    "Itens": "(SSD)",
+    "Unidades": 30,
+    "Valor p/ unidade": "R$500"
+  },
+  {
+    "Itens": "Memórias RAM",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$300"
+  },
+  {
+    "Itens": "Placas-mãe",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$800"
+  },
+  {
+    "Itens": "Placas de som",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$200"
+  },
+  {
+    "Itens": "Placas de rede",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$150"
+  },
+  {
+    "Itens": "Sistemas operacionais (Windows)",
+    "Unidades": 80,
+    "Valor p/ unidade": "R$800"
+  },
+  {
+    "Itens": "(Office)",
+    "Unidades": 80,
+    "Valor p/ unidade": "R$1.200"
+  },
+  {
+    "Itens": "Fones de ouvido",
+    "Unidades": 30,
+    "Valor p/ unidade": "R$200"
+  },
+  {
+    "Itens": "Webcams",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$250"
+  },
+  {
+    "Itens": "(antivírus)",
+    "Unidades": 80,
+    "Valor p/ unidade": "R$100"
+  },
+  {
+    "Itens": "Licenças de software",
+    "Unidades": 80,
+    "Valor p/ unidade": "R$100"
+  },
+  {
+    "Itens": "Telefones",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$500"
+  },
+  {
+    "Itens": "Caixas de som",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$300"
+  },
+  {
+    "Itens": "Projetores",
+    "Unidades": 5,
+    "Valor p/ unidade": "R$2.000"
+  },
+  {
+    "Itens": "Tablets",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$2.500"
+  },
+  {
+    "Itens": "Smartphones corporativos",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$2.000"
+  },
+  {
+    "Itens": "Cartões de memória",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$100"
+  },
+  {
+    "Itens": "Pendrives",
+    "Unidades": 100,
+    "Valor p/ unidade": "R$50"
+  },
+  {
+    "Itens": "Leitores de cartões",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$100"
+  },
+  {
+    "Itens": "Gravadores DVD",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$300"
+  },
+  {
+    "Itens": "Cabos de alimentação",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$40"
+  },
+  {
+    "Itens": "Adaptadores de vídeo (HDMI, VGA)",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$50"
+  },
+  {
+    "Itens": "Adaptadores de rede (Wi-Fi, Ethernet)",
+    "Unidades": 30,
+    "Valor p/ unidade": "R$100"
+  },
+  {
+    "Itens": "Ferramentas de rede",
+    "Unidades": 5,
+    "Valor p/ unidade": "R$200"
+  },
+  {
+    "Itens": "Etiquetas de organização de cabos",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$30"
+  },
+  {
+    "Itens": "Organizadores de cabos",
+    "Unidades": 20,
+    "Valor p/ unidade": "R$50"
+  },
+  {
+    "Itens": "Racks para servidores",
+    "Unidades": 2,
+    "Valor p/ unidade": "R$3.000"
+  },
+  {
+    "Itens": "Sistemas de backup",
+    "Unidades": 5,
+    "Valor p/ unidade": "R$5.000"
+  },
+  {
+    "Itens": "Impressoras 3D",
+    "Unidades": 1,
+    "Valor p/ unidade": "R$10.000"
+  },
+  {
+    "Itens": "Materiais de escritório (canetas)",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$20"
+  },
+  {
+    "Itens": "Mobiliário de escritório (mesas, cadeiras)",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$500"
+  },
+  {
+    "Itens": "Equipamentos de segurança (câmeras de segurança)",
+    "Unidades": 10,
+    "Valor p/ unidade": "R$1.000"
+  },
+  {
+    "Itens": "Produtos de limpeza",
+    "Unidades": 50,
+    "Valor p/ unidade": "R$30"
+  }
+]
