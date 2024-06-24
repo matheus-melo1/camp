@@ -12,7 +12,6 @@ export default function Nav() {
       <div className="flex flex-col items-start justify-center rounded-xl gap-2 w-full">
         <NavLink link={'/'} icon={<Package size={size} strokeWidth={1.5} />} name={'Estoque'} />
         <NavLink link={'/Mapa'} icon={<Map size={size} strokeWidth={1.5} />} name={'Mapa Estoque'} />
-        <NavLink link={'/'} icon={<NotepadText size={size} strokeWidth={1.5} />} name={'Nota Fiscal'} />
       </div>
     </nav>
   )

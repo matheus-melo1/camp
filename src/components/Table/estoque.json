@@ -2,246 +2,295 @@
   {
     "Itens": "Computadores de mesa (desktops)",
     "Unidades": 50,
-    "Valor p/ unidade": "R$3.000"
+    "Valor p/ unidade": "R$3.000",
+    "estante": "estante1"
   },
   {
     "Itens": "Notebooks",
     "Unidades": 30,
-    "Valor p/ unidade": "R$4.500"
+    "Valor p/ unidade": "R$4.500",
+    "estante": "estante1"
   },
   {
     "Itens": "Monitores",
     "Unidades": 70,
-    "Valor p/ unidade": "R$800"
+    "Valor p/ unidade": "R$800",
+    "estante": "estante1"
   },
   {
     "Itens": "Teclados",
     "Unidades": 80,
-    "Valor p/ unidade": "R$100"
+    "Valor p/ unidade": "R$100",
+    "estante": "estante1"
   },
   {
     "Itens": "Mouses",
     "Unidades": 80,
-    "Valor p/ unidade": "R$50"
+    "Valor p/ unidade": "R$50",
+    "estante": "estante1"
   },
   {
     "Itens": "Impressoras",
     "Unidades": 10,
-    "Valor p/ unidade": "R$1.500"
+    "Valor p/ unidade": "R$1.500",
+    "estante": "estante2"
   },
   {
     "Itens": "Scanners",
     "Unidades": 5,
-    "Valor p/ unidade": "R$1.200"
+    "Valor p/ unidade": "R$1.200",
+    "estante": "estante3"
   },
   {
     "Itens": "Servidores",
     "Unidades": 5,
-    "Valor p/ unidade": "R$20.000"
+    "Valor p/ unidade": "R$20.000",
+    "estante": "estante3"
   },
   {
     "Itens": "Roteadores",
     "Unidades": 10,
-    "Valor p/ unidade": "R$500"
+    "Valor p/ unidade": "R$500",
+    "estante": "estante3"
   },
   {
     "Itens": "Switches de rede",
     "Unidades": 10,
-    "Valor p/ unidade": "R$1.000"
+    "Valor p/ unidade": "R$1.000",
+    "estante": "estante3"
   },
   {
     "Itens": "Cabos de rede (Ethernet)",
     "Unidades": 100,
-    "Valor p/ unidade": "R$30"
+    "Valor p/ unidade": "R$30",
+    "estante": "estante3"
   },
   {
     "Itens": "Cabos USB",
     "Unidades": 100,
-    "Valor p/ unidade": "R$20"
+    "Valor p/ unidade": "R$20",
+    "estante": "estante3"
   },
   {
     "Itens": "Fontes de Alimentação",
     "Unidades": 20,
-    "Valor p/ unidade": "R$300"
+    "Valor p/ unidade": "R$300",
+    "estante": "estante3"
   },
   {
     "Itens": "Estabilizadores de energia",
     "Unidades": 15,
-    "Valor p/ unidade": "R$400"
+    "Valor p/ unidade": "R$400",
+    "estante": "estante3"
   },
   {
     "Itens": "Nobreaks (UPS)",
     "Unidades": 15,
-    "Valor p/ unidade": "R$1.000"
+    "Valor p/ unidade": "R$1.000",
+    "estante": "estante3"
   },
   {
     "Itens": "Discos rígidos (HDD)",
     "Unidades": 30,
-    "Valor p/ unidade": "R$400"
+    "Valor p/ unidade": "R$400",
+    "estante": "estante1"
   },
   {
     "Itens": "(SSD)",
     "Unidades": 30,
-    "Valor p/ unidade": "R$500"
+    "Valor p/ unidade": "R$500",
+    "estante": "estante1"
   },
   {
     "Itens": "Memórias RAM",
     "Unidades": 50,
-    "Valor p/ unidade": "R$300"
+    "Valor p/ unidade": "R$300",
+    "estante": "estante1"
   },
   {
     "Itens": "Placas-mãe",
     "Unidades": 20,
-    "Valor p/ unidade": "R$800"
+    "Valor p/ unidade": "R$800",
+    "estante": "estante1"
   },
   {
     "Itens": "Placas de som",
     "Unidades": 10,
-    "Valor p/ unidade": "R$200"
+    "Valor p/ unidade": "R$200",
+    "estante": "estante1"
   },
   {
     "Itens": "Placas de rede",
     "Unidades": 20,
-    "Valor p/ unidade": "R$150"
+    "Valor p/ unidade": "R$150",
+    "estante": "estante1"
   },
   {
     "Itens": "Sistemas operacionais (Windows)",
     "Unidades": 80,
-    "Valor p/ unidade": "R$800"
+    "Valor p/ unidade": "R$800",
+    "estante": "estante9"
   },
   {
     "Itens": "(Office)",
     "Unidades": 80,
-    "Valor p/ unidade": "R$1.200"
+    "Valor p/ unidade": "R$1.200",
+    "estante": "estante9"
   },
   {
     "Itens": "Fones de ouvido",
     "Unidades": 30,
-    "Valor p/ unidade": "R$200"
+    "Valor p/ unidade": "R$200",
+    "estante": "estante5"
   },
   {
     "Itens": "Webcams",
     "Unidades": 20,
-    "Valor p/ unidade": "R$250"
+    "Valor p/ unidade": "R$250",
+    "estante": "estante5"
   },
   {
     "Itens": "(antivírus)",
     "Unidades": 80,
-    "Valor p/ unidade": "R$100"
+    "Valor p/ unidade": "R$100",
+    "estante": "estante9"
   },
   {
     "Itens": "Licenças de software",
     "Unidades": 80,
-    "Valor p/ unidade": "R$100"
+    "Valor p/ unidade": "R$100",
+    "estante": "estante9"
   },
   {
     "Itens": "Telefones",
     "Unidades": 20,
-    "Valor p/ unidade": "R$500"
+    "Valor p/ unidade": "R$500",
+    "estante": "estante5"
   },
   {
     "Itens": "Caixas de som",
     "Unidades": 10,
-    "Valor p/ unidade": "R$300"
+    "Valor p/ unidade": "R$300",
+    "estante": "estante5"
   },
   {
     "Itens": "Projetores",
     "Unidades": 5,
-    "Valor p/ unidade": "R$2.000"
+    "Valor p/ unidade": "R$2.000",
+    "estante": "estante9"
   },
   {
     "Itens": "Tablets",
     "Unidades": 10,
-    "Valor p/ unidade": "R$2.500"
+    "Valor p/ unidade": "R$2.500",
+    "estante": "estante9"
   },
   {
     "Itens": "Smartphones corporativos",
     "Unidades": 20,
-    "Valor p/ unidade": "R$2.000"
+    "Valor p/ unidade": "R$2.000",
+    "estante": "estante9"
   },
   {
     "Itens": "Cartões de memória",
     "Unidades": 50,
-    "Valor p/ unidade": "R$100"
+    "Valor p/ unidade": "R$100",
+    "estante": "estante4"
   },
   {
     "Itens": "Pendrives",
     "Unidades": 100,
-    "Valor p/ unidade": "R$50"
+    "Valor p/ unidade": "R$50",
+    "estante": "estante4"
   },
   {
     "Itens": "Leitores de cartões",
     "Unidades": 10,
-    "Valor p/ unidade": "R$100"
+    "Valor p/ unidade": "R$100",
+    "estante": "estante5"
   },
   {
     "Itens": "Gravadores DVD",
     "Unidades": 10,
-    "Valor p/ unidade": "R$300"
+    "Valor p/ unidade": "R$300",
+    "estante": "estante5"
   },
   {
     "Itens": "Cabos de alimentação",
     "Unidades": 50,
-    "Valor p/ unidade": "R$40"
+    "Valor p/ unidade": "R$40",
+    "estante": "estante3"
   },
   {
     "Itens": "Adaptadores de vídeo (HDMI, VGA)",
     "Unidades": 50,
-    "Valor p/ unidade": "R$50"
+    "Valor p/ unidade": "R$50",
+    "estante": "estante3"
   },
   {
     "Itens": "Adaptadores de rede (Wi-Fi, Ethernet)",
     "Unidades": 30,
-    "Valor p/ unidade": "R$100"
+    "Valor p/ unidade": "R$100",
+    "estante": "estante3"
   },
   {
     "Itens": "Ferramentas de rede",
     "Unidades": 5,
-    "Valor p/ unidade": "R$200"
+    "Valor p/ unidade": "R$200",
+    "estante": "estante3"
   },
   {
     "Itens": "Etiquetas de organização de cabos",
     "Unidades": 10,
-    "Valor p/ unidade": "R$30"
+    "Valor p/ unidade": "R$30",
+    "estante": "estante6"
   },
   {
     "Itens": "Organizadores de cabos",
     "Unidades": 20,
-    "Valor p/ unidade": "R$50"
+    "Valor p/ unidade": "R$50",
+    "estante": "estante6"
   },
   {
     "Itens": "Racks para servidores",
     "Unidades": 2,
-    "Valor p/ unidade": "R$3.000"
+    "Valor p/ unidade": "R$3.000",
+    "estante": "estante6"
   },
   {
     "Itens": "Sistemas de backup",
     "Unidades": 5,
-    "Valor p/ unidade": "R$5.000"
+    "Valor p/ unidade": "R$5.000",
+    "estante": "estante4"
   },
   {
     "Itens": "Impressoras 3D",
     "Unidades": 1,
-    "Valor p/ unidade": "R$10.000"
+    "Valor p/ unidade": "R$10.000",
+    "estante": "estante9"
   },
   {
     "Itens": "Materiais de escritório (canetas)",
     "Unidades": 50,
-    "Valor p/ unidade": "R$20"
+    "Valor p/ unidade": "R$20",
+    "estante": "estante8"
   },
   {
     "Itens": "Mobiliário de escritório (mesas, cadeiras)",
     "Unidades": 50,
-    "Valor p/ unidade": "R$500"
+    "Valor p/ unidade": "R$500",
+    "estante": "estante6"
   },
   {
     "Itens": "Equipamentos de segurança (câmeras de segurança)",
     "Unidades": 10,
-    "Valor p/ unidade": "R$1.000"
+    "Valor p/ unidade": "R$1.000",
+    "estante": "estante7"
   },
   {
     "Itens": "Produtos de limpeza",
     "Unidades": 50,
-    "Valor p/ unidade": "R$30"
+    "Valor p/ unidade": "R$30",
+    "estante": "estante8"
   }
 ]

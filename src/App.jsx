@@ -20,7 +20,7 @@ const router = createBrowserRouter([
 
 export default function App() {
   return (
-    <main className="w-full h-screen flex bg-zinc-100">
+    <main className="w-full h-screen flex bg-zinc-100 font-sans">
       <Nav />
       <RouterProvider router={router} />
     </main>

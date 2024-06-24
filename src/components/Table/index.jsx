@@ -2,7 +2,7 @@ import { Package, Search, Box, ArrowUpNarrowWide, Boxes } from 'lucide-react';
 import Cols from './cols'
 import Row from './row'
 import { useState } from 'react';
-import data from './Estoque.json';
+import data from './estoque.json';
 
 export default function Table() {
   // const [data, setData] = useState([]);
@@ -12,7 +12,7 @@ export default function Table() {
   const dataFilter = data.filter(data => data.Itens.toLowerCase().includes(searchCase));
   
   return (
-    <section className="w-full h-full font-[inter] flex flex-col gap-2 bg-white p-4 rounded-2xl overflow-hidden">
+    <section className="w-full h-full font-sans flex flex-col gap-2 bg-white p-4 rounded-2xl overflow-hidden">
       <h1 className="p-3 flex gap-2 items-center font-bold text-2xl text-zinc-950">
         <Package size={32} />
         Estoque
