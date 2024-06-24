@@ -23,7 +23,7 @@ export default function Mapa() {
       </div> */}
 
       <section
-        className="w-full h-full font-[inter] flex flex-col gap-8 bg-white p-4 rounded-2xl"
+        className="w-full h-full font-sans flex flex-col gap-8 bg-white p-4 rounded-2xl"
       >
         <h1 className="p-3 flex gap-2 items-center font-bold text-2xl text-zinc-950">
           <Map size={32} />
