@@ -9,7 +9,17 @@ export default {
     "./src/*.{js,ts,jsx,tsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      keyframes: {
+        estante: {
+          '0%': { right: '-520px', opacity: '0%' },
+          '100%': { right: '0px', opacity: '100%' }
+        },
+      },
+      animation: {
+        estante: 'estante 0.4s ease-in-out'
+      }
+    },
   },
   plugins: [],
 }
